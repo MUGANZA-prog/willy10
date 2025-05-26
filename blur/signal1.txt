@@ -12,3 +12,5 @@ nurangiza muri folder wa cloninze usibe aga file kitwa .git
 kudasubiza mn
 
 kora npm install nanone kandi hose
+
+npm i tailwindcss @tailwindcss/vite
