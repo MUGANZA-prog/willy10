@@ -1,15 +1,9 @@
-over over!
-ngiye kuyikora
 
-bro everything is done noneho ugiye gukopera iyi link ujye muri terminal ukore cd desktop cyangwa cd ../ kugirango ijye kugirango
-desktop hanyuma uyi pastinge maze u cloning nuranginza ujye muri backend ufate sims.sql ama code uya pastinge muri
-sql kuri xampp maze ujye muri buri folder frontend na backend ukore npm i nurangiza u running buri kimwe maze umbwire:
 
-link: "git clone https://github.com/MUGANZA-prog/AGABE_William_National_Practical_Exam_2025.git"
+git clone https://github.com/MUGANZA-prog/AGABE_William_National_Practical_Exam_2025.git
 
-nurangiza muri folder wa cloninze usibe aga file kitwa .git
 
-kudasubiza mn
+
 
 kora npm install nanone kandi hose
 
