@@ -8,3 +8,5 @@ sql kuri xampp maze ujye muri buri folder frontend na backend ukore npm i nurang
 link: "git clone https://github.com/MUGANZA-prog/AGABE_William_National_Practical_Exam_2025.git"
 
 nurangiza muri folder wa cloninze usibe aga file kitwa .git
+
+kudasubiza mn
