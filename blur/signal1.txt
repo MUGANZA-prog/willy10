@@ -10,3 +10,5 @@ link: "git clone https://github.com/MUGANZA-prog/AGABE_William_National_Practica
 nurangiza muri folder wa cloninze usibe aga file kitwa .git
 
 kudasubiza mn
+
+kora npm install nanone kandi hose
