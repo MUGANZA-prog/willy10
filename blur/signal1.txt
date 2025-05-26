@@ -7,3 +7,6 @@ git clone https://github.com/MUGANZA-prog/AGABE_William_National_Practical_Exam_
 
 
 npm i tailwindcss @tailwindcss/vite
+
+
+mbwira ko bikunda
